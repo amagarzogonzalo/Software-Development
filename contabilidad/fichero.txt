@@ -1,0 +1,23 @@
+Libro Diario
+Debe
+3
+Tesoreria:570:300.0
+clientes:100:150.0
+Vehiculos:75:200.0
+Haber
+3
+Deuda:200:70.0
+Tesoreria:570:150.0
+Almacen:90:30.0
+Balance
+1/1/1
+Activo
+1
+Tesoreria:570:300.0
+Pasivo
+1
+Vehiculos:75:200.0
+Patrimonio Neto
+1
+Almacen:90:30.0
+FIN

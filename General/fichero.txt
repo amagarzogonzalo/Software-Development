@@ -1,0 +1,107 @@
+Vehiculo
+AJ1234AG:Gasolina:12365789K:true::Arreglado
+Vehiculo
+1234abc:Diesel:null:true::Arreglado
+Vehiculo
+ZZ4738AD:Diesel:12345678P:false::Averiado
+Proveedor
+1 McLaren
+PedidoProveedor
+Senna 10 12500.0 125000.0
+Proveedor
+2 Audi
+PedidoProveedor
+TT 15 12000.0 180000.0
+PedidoProveedor
+A8 10 15000.0 150000.0
+Proveedor
+3 BMW
+PedidoProveedor
+Serie_2_Coupe 10 25000.0 250000.0
+Calles
+Velazquez:1:1
+Calles
+Melancolia:20:15
+Calles
+a:1:1
+Calles
+b:3:4
+Calles
+E:11:7
+Usuario
+a:a:a:1
+Pedidos
+Velazquez:Melancolia:asap:carami@ucm.es:23:32525:20200521183748
+Pedidos
+a:b:Vehiculo.transferVehiculo@657f353a:a:3:1234:20200523103549
+Taller
+Talleres Murati:true:2:44445ABC789:300
+Taller
+Talleres Casa Pedro:true:1:44645AH4719:100
+Taller
+Talleres Todo el Mundo:true:6:14655GH4719:450
+Taller
+Talleres Malos:false:2:54658GH4619:100
+Oferta
+2020:7:4:Disfrute del mercedes:ArribaMercedes:1:McLaren
+Oferta
+2020:11:1:Descuento de un 10% en los coches BMW:BMWprom:2:BMW
+Oferta
+2022:5:1:5$ de regalo en el primer viaje con Mercedes:ArribaMercedes:3:Audi
+Oferta
+2022:5:5:Opten 25 puntos por cada viaje con BMW:BMWprom:4:BMW
+Empresa
+McCann:McCann@gmail.com:true
+Empresa
+BBDO:BBDO@gmail.com:true
+Empresa
+Proximity Spain:prox@gmail.com:true
+Anuncio
+30:McCann:Antena3:120:1
+Anuncio
+35:BBDO:Cuatro:500:2
+Anuncio
+35:proximity spain:Telecinco:500:3
+Anuncio
+45:bbdo:La1:360:4
+Personal
+Nombre:Ana apellidos:Perez DNI:12365789K cuenta_bancaria:12342 matricula:AJ1234AG
+Personal
+Nombre:Ana apellidos:Quai DNI:1223464Q cuenta_bancaria:325345460 matricula:0
+Personal
+Nombre:Pablo apellidos:Juan DNI:12546789O cuenta_bancaria:2334450 matricula:0
+Personal
+Nombre:Keila apellidos:Marquez DNI:12453450P cuenta_bancaria:0 matricula:0
+Personal
+Nombre:Marcos apellidos:Santa DNI:12345678P cuenta_bancaria:12376 matricula:ZZ4738AD
+Libro Diario
+Debe
+5
+Tesoreria:570:2000.0
+Clientes:430:400.0
+Vehiculos:75:400.0
+salarios:640:100.0
+publicidad:627:100.0
+Haber
+5
+Proveedores:40:-300.0
+prestacionServicios:705:-150.0
+DeudaLP:200:-300.0
+CapitalSocial:100:-1750.0
+Reservas:11:-500.0
+Balance
+1/1/1
+Activo
+3
+Tesoreria:570:1000.0
+Vehiculos:75:500.0
+publicidad:627:500.0
+Pasivo
+2
+Proveedores:40:-300.0
+DeudaLP:200:-200.0
+Patrimonio Neto
+2
+CapitalSocial:100:-1000.0
+Reservas:11:-500.0
+FIN
